@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devlog on Bailey Atwood</title>
+    <link>http://localhost:1313/tags/devlog/</link>
+    <description>Recent content in Devlog on Bailey Atwood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/devlog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Yukon: Devlog &#34;1&#34;</title>
+      <link>http://localhost:1313/devlogs/first/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/devlogs/first/</guid>
+      <description>Well... there have technically been a lot of &#34;devlogs&#34; before this one for Project Yukon. However, those have all been through the Project Yukon Discord server and in an attempt to make things more accessible and public (as well as making sure all of it doesn&#39;t disappear if Discord/the Discord server goes down) I would like them to all be in a more centralized location.&#xA;And so&amp;hellip; this is Devlog #1 for Project Yukon</description>
+    </item>
+  </channel>
+</rss>

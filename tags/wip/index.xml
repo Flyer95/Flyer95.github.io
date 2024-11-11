@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WIP on Bailey Atwood</title>
+    <link>http://localhost:1313/tags/wip/</link>
+    <description>Recent content in WIP on Bailey Atwood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/wip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transfusion</title>
+      <link>http://localhost:1313/gamepages/transfusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gamepages/transfusion/</guid>
+      <description>Transfusion is a VR hack-and-slash made in Unreal Engine. In the game you fight through waves of enemies using various element-based weapons.&#xA;Currently, the project is still in development but is planned to be completed by early 2025.&#xA;Responsibilities Modelled and textured key assets, including core player weapons Composed music to play during combat, utilizing musical language to convey tone and meaning Programmed a Quartz music system that allowed tracks to loop seamlessly without repeating intro segments </description>
+    </item>
+  </channel>
+</rss>
