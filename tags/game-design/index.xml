@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Design on Bailey Atwood</title>
+    <link>https://flyer95.github.io/tags/game-design/</link>
+    <description>Recent content in Game Design on Bailey Atwood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 11:47:30 -0500</lastBuildDate>
+    <atom:link href="https://flyer95.github.io/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Yukon: Developing a Style</title>
+      <link>https://flyer95.github.io/posts/lookandfeel/</link>
+      <pubDate>Tue, 12 Nov 2024 11:47:30 -0500</pubDate>
+      <guid>https://flyer95.github.io/posts/lookandfeel/</guid>
+      <description>What Is This Thing Going To Look Like? One thing that has been a constant iterative proccess has been determining the visual design of Project Yukon. Even now I am still tweaking and modifying the visual style to make something that&amp;rsquo;s unique while also looks good but I&amp;rsquo;ve made a bunch of progress since I started on this project.&#xA;For example, here is a super early version of what Project Yukon first looked like.</description>
+    </item>
+  </channel>
+</rss>

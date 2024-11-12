@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on Bailey Atwood</title>
+    <link>http://localhost:1313/tags/general/</link>
+    <description>Recent content in General on Bailey Atwood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 10:33:40 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Yukon: Overview</title>
+      <link>http://localhost:1313/posts/mypost/</link>
+      <pubDate>Tue, 12 Nov 2024 10:33:40 -0500</pubDate>
+      <guid>http://localhost:1313/posts/mypost/</guid>
+      <description>A New Beginning Originally, I started posting &amp;ldquo;devlog-like&amp;rdquo; posts on a Discord server for the game. However, as time has gone on, leaving all of my development logs and messages on a single platform I don&amp;rsquo;t have complete control over hasn&amp;rsquo;t seemed like a good idea. I would hate for all the development notes and such to be locked on Discord or worse be lost if the server or Discord itself goes away.</description>
+    </item>
+  </channel>
+</rss>
